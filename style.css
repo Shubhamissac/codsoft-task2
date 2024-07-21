@@ -1,0 +1,49 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: cyan;
+}
+
+
+.imgi{
+   width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  border-color: solid black;
+}
+
+.imge{
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  border-color: solid black;
+}
+.photo-name{
+  font-size: 20px;
+  font-weight: bold;
+  color: black;
+  padding-top: 30px;
+  padding-bottom: 50px;
+}
+.res{
+  max-width: 18%;
+  max-height: 18%;
+  border-radius: 5%;
+  border-color: solid black;
+}
+
+.rs{
+  padding-left: 90%;
+  font-size: 8px;
+  font-weight: bold;
+  color: black;
+  background-color:white;
+}
+.ink{
+  align-content:center;
+  background-color: cyan;
+}
+
+footer{
+  align-content:center;
+}
